@@ -45,7 +45,7 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 2013
 - Bin Xie, **Dapeng Wang**, Yong Duan, Jun Yu, and Hongxing Lei. Functional networking of human divergently paired genes. _**PLoS ONE**_. 2013, 8(10): e78896. PMID: [24205343](https://www.ncbi.nlm.nih.gov/pubmed/24205343)
 
-- Yunbo Li, **Dapeng Wang**, Lei Wang, Jinhai Yu, Danhua Du, Ye Chen, Peng Gao, Duen-Mei Wang, Jun Yu, Feng Zhang, and Shuanglin Fu. Distinct genomic aberrations between low-grade and high-grade gliomas of Chinese patients. _**PLoS ONE**_. 2013, 8(2): e57168. PMID: [23451178](https://www.ncbi.nlm.nih.gov/pubmed/23451178) Highlighted in GenomeWeb Daily Scan
+- Yunbo Li, **Dapeng Wang**, Lei Wang, Jinhai Yu, Danhua Du, Ye Chen, Peng Gao, Duen-Mei Wang, Jun Yu, Feng Zhang, and Shuanglin Fu. Distinct genomic aberrations between low-grade and high-grade gliomas of Chinese patients. _**PLoS ONE**_. 2013, 8(2): e57168. PMID: [23451178](https://www.ncbi.nlm.nih.gov/pubmed/23451178)
 
 - **Dapeng Wang**, Yan Xia, Xinna Li, Lixia Hou and Jun Yu. The Rice Genome Knowledgebase (RGKbase): an annotation database for rice comparative genomics and evolutionary biology. _**Nucleic Acids Research**_. 2013; 41: D1199-D1205.PMID: [23193278](https://www.ncbi.nlm.nih.gov/pubmed/23193278)
 
@@ -57,7 +57,7 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 - **Dapeng Wang**, Yubin Zhang, Zhonghua Fan, Guiming Liu and Jun Yu. LCGbase: A Comprehensive Database for Lineage-Based Co-regulated Genes. _**Evolutionary Bioinformatics**_ 2012:8 39-46. PMID: [22267903](https://www.ncbi.nlm.nih.gov/pubmed/22267903)
 
 2011
-- **Dapeng Wang** and Jun Yu. Both size and GC-content of minimal introns are selected in human populations. _**PLoS ONE**_ 2011, 6(3): e17945. PMID: [21437290](https://www.ncbi.nlm.nih.gov/pubmed/21437290) Highlighted in GenomeWeb Daily Scan
+- **Dapeng Wang** and Jun Yu. Both size and GC-content of minimal introns are selected in human populations. _**PLoS ONE**_ 2011, 6(3): e17945. PMID: [21437290](https://www.ncbi.nlm.nih.gov/pubmed/21437290)
 
 - **Dapeng Wang**, Fei Liu, Lei Wang, Shi Huang and Jun Yu. Nonsynonymous substitution rate (Ka) is a relatively consistent parameter for defining fast-evolving and slow-evolving protein-coding genes. _**Biology Direct**_ 2011, 6:13. PMID: [21342519](https://www.ncbi.nlm.nih.gov/pubmed/21342519)
 
