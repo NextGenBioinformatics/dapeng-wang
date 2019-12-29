@@ -1,7 +1,7 @@
 ## Welcome to my personal page
 
 <p align="center">
-  <img width="300" height="300" src="/images/profile.png">
+  <img width="300" height="300" src="https://github.com/NextGenBioinformatics/dapeng-wang/blob/master/images/profile.png">
 </p>
 
 I am currently a Senior Bioinformatics Research Officer at LeedsOmics, **University of Leeds**. My primary responsibility is to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
