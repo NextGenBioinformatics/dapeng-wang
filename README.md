@@ -15,9 +15,19 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * Jan. 2014-Feb. 2014, Associate Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 * Jul. 2011-Dec. 2013, Assistant Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 
-# Education
+# Qualifications
 * Sep. 2006-Jul. 2011, PhD, Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
 * Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
+
+# Editorial Services
+* Editorial Board Member, PLOS ONE, 2018-
+* Associate Editor, Bioinformatics and Computational Biology section of Frontiers in Bioengineering and Biotechnology, Frontiers in Genetics and Frontiers in Plant Science, 2018-
+* Editorial Board Member, Evolutionary Bioinformatics, 2018-
+* Editorial Board Member, Scientific Reports, 2019-
+
+# Awards and Honors
+* Member, Youth Innovation Promotion Association, Chinese Academy of Sciences, 2013
+* President Awarding, Chinese Academy of Sciences, 2011        
 
 # Publication
 
