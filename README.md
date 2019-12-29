@@ -1,23 +1,23 @@
 ## Welcome to my personal page
 
-I am currently a Senior Bioinformatics Research Officer at LeedsOmics, University of Leeds. My primary responsibility is to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
+I am currently a Senior Bioinformatics Research Officer at LeedsOmics, **University of Leeds**. My primary responsibility is to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
 
-I hold a B.Sc degree in the mathematics from Shandong University (2006) and a Ph.D degree in genomics and bioinformatics from Beijing Institute of Genomics (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
+I hold a B.Sc degree in the mathematics from **Shandong University** (2006) and a Ph.D degree in genomics and bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
 
-Afterwards, I moved to UK and accepted an appointment as a Research Associate in Cancer Institute, University College London for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
+Afterwards, I moved to UK and accepted an appointment as a Research Associate in Cancer Institute, **University College London** for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
 
-After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at Department of Plant Sciences, University of Oxford where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
+After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at Department of Plant Sciences, **University of Oxford** where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
 
 # Employment history
-* Feb. 2018-Present, Senior Bioinformatics Research Officer, LeedsOmics, University of Leeds, Leeds, UK
-* Feb. 2016-Jan. 2018, Postdoctoral Research Assistant, Department of Plant Sciences, University of Oxford, Oxford, UK (With Prof. John Mackay)
-* Mar. 2014-Jan. 2016, Research Associate, UCL Cancer Institute, University College London, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
-* Jan. 2014-Feb. 2014, Associate Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
-* Jul. 2011-Dec. 2013, Assistant Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
+* Feb. 2018-Present, Senior Bioinformatics Research Officer, LeedsOmics, **University of Leeds**, Leeds, UK
+* Feb. 2016-Jan. 2018, Postdoctoral Research Assistant, Department of Plant Sciences, **University of Oxford**, Oxford, UK (With Prof. John Mackay)
+* Mar. 2014-Jan. 2016, Research Associate, UCL Cancer Institute, **University College London**, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
+* Jan. 2014-Feb. 2014, Associate Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
+* Jul. 2011-Dec. 2013, Assistant Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 
 # Education
-* Sep. 2006-Jul. 2011, PhD, Genomics and Bioinformatics, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
-* Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, Shandong University, Jinan, China
+* Sep. 2006-Jul. 2011, PhD, Genomics and Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
+* Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
 
 # Publication
 
