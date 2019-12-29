@@ -20,65 +20,60 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, Shandong University, Jinan, China
 
 # Publication
-FIRST/CO-FIRST AUTHOR(#) AND/OR CORRESPONDING/CO-CORRESPONDING AUTHOR(*)
-Under review or in preparation
-- Dapeng Wang*. ChIPwrapper: A highly-efficient wrapper for handling massive ChIP-Seq samples. In preparation.
-
-- Dapeng Wang*. denovo-hppRNA: A smart pipeline for RNA-Seq analysis from reference-free genomes. In preparation.
 
 - Dapeng Wang*. GCevobase: an evolution-based database for GC content in eukaryotic genomes. Under review.
 
 2017
-- Charlotta Böiers, Simon E. Richardson, Emma Laycock, Alya Zriwil, Virginia A. Turati, John Brown, Jason P. Wray, **Dapeng Wang**, Chela James, Javier Herrero, Ewa Sitnicka, Stefan Karlsson, Andrew J.H. Smith, Sten Erik W. Jacobsen and Tariq Enver. A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1. Developmental Cell. 2017 Dec 27. pii: S1534-5807(17)30990-5. PMID: 29290585
+- Charlotta Böiers, Simon E. Richardson, Emma Laycock, Alya Zriwil, Virginia A. Turati, John Brown, Jason P. Wray, **Dapeng Wang**, Chela James, Javier Herrero, Ewa Sitnicka, Stefan Karlsson, Andrew J.H. Smith, Sten Erik W. Jacobsen and Tariq Enver. A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1. _**Developmental Cell**_. 2017 Dec 27. pii: S1534-5807(17)30990-5. PMID: 29290585
 
-- Itaru Kato, Yoko Nishinaka, Masahiro Nakamura, Ayse U. Akarca, Akira Niwa, Hiroki Ozawa, Kenichi Yoshida, Makiko Mori, **Dapeng Wang**, Makiko Morita, Hiroo Ueno, Yusuke Shiozawa, Yuichi Shiraishi, Satoru Miyano, Rajeev Gupta, Katsutsugu Umeda, Kenichiro Watanabe, Katsuyoshi Koh, Souichi Adachi, Toshio Heike, Megumu K. Saito, Masashi Sanada, Seishi Ogawa, Teresa Marafioti, Akira Watanabe, Tatsutoshi Nakahata and Tariq Enver. Hypoxic adaptation of leukemic cells infiltrating the CNS affords a therapeutic strategy targeting VEGFA. Blood. 2017 Jun 8;129(23):3126-3129. PMID: 28424164
+- Itaru Kato, Yoko Nishinaka, Masahiro Nakamura, Ayse U. Akarca, Akira Niwa, Hiroki Ozawa, Kenichi Yoshida, Makiko Mori, **Dapeng Wang**, Makiko Morita, Hiroo Ueno, Yusuke Shiozawa, Yuichi Shiraishi, Satoru Miyano, Rajeev Gupta, Katsutsugu Umeda, Kenichiro Watanabe, Katsuyoshi Koh, Souichi Adachi, Toshio Heike, Megumu K. Saito, Masashi Sanada, Seishi Ogawa, Teresa Marafioti, Akira Watanabe, Tatsutoshi Nakahata and Tariq Enver. Hypoxic adaptation of leukemic cells infiltrating the CNS affords a therapeutic strategy targeting VEGFA. _**Blood**_. 2017 Jun 8;129(23):3126-3129. PMID: 28424164
 
-- **Dapeng Wang**. hppRNA – A Snakemake-based handy parameter-free pipeline for RNA-Seq analysis of numerous samples. Briefings In Bioinformatics. 2017 Jan 17. pii: bbw143. PMID:28096075
+- **Dapeng Wang**. hppRNA – A Snakemake-based handy parameter-free pipeline for RNA-Seq analysis of numerous samples. _**Briefings In Bioinformatics**_. 2017 Jan 17. pii: bbw143. PMID:28096075
 
 2016
-- **Dapeng Wang**. DLGP: A database for lineage-conserved and lineage-specific gene pairs in animal and plant genomes. Biochemical and Biophysical Research Communications 469 (2016) 542-545. PMID: 26697753
+- **Dapeng Wang**. DLGP: A database for lineage-conserved and lineage-specific gene pairs in animal and plant genomes. _**Biochemical and Biophysical Research Communications**_ 469 (2016) 542-545. PMID: 26697753
 
 2015
-- **Dapeng Wang**, Jiayue Xu and Jun Yu. KGCAK: A K-mer based database for genome-wide phylogeny and complexity evaluation. Biology Direct 2015, 10:53. PMID: 26376976
+- **Dapeng Wang**, Jiayue Xu and Jun Yu. KGCAK: A K-mer based database for genome-wide phylogeny and complexity evaluation. _**Biology Direct**_ 2015, 10:53. PMID: 26376976
 
-- **Dapeng Wang** and Jun Yu. LCGserver: a webserver for exploring evolutionary trajectory of gene orders in a large number of genomes. OMICS: A Journal of Integrative Biology. 2015 Sep;19(9):574-7. PMID: 26258441
+- **Dapeng Wang** and Jun Yu. LCGserver: a webserver for exploring evolutionary trajectory of gene orders in a large number of genomes. _**OMICS: A Journal of Integrative Biology**_. 2015 Sep;19(9):574-7. PMID: 26258441
 
-- **Dapeng Wang** and Jun Yu. Plastid-LCGbase: a collection of evolutionarily conserved plastid-associated gene pairs. Nucleic Acids Research. 2015 Jan;43(Database issue):D990-5. PMID: 25378306
+- **Dapeng Wang** and Jun Yu. Plastid-LCGbase: a collection of evolutionarily conserved plastid-associated gene pairs. _**Nucleic Acids Research**_. 2015 Jan;43(Database issue):D990-5. PMID: 25378306
 
-- Cristina Pina, Jose Teles, Cristina Fugazza, Gill May, **Dapeng Wang**, Yanping Guo, Shamit Soneji, John Brown, Patrik Eden, Mattias Ohlsson, Carsten Peterson and Tariq Enver. Single-cell network analysis identifies ddit3 as a nodal lineage regulator in hematopoiesis. Cell Reports 2015 Jun 16;11(10):1503-10. PMID: 26051941
+- Cristina Pina, Jose Teles, Cristina Fugazza, Gill May, **Dapeng Wang**, Yanping Guo, Shamit Soneji, John Brown, Patrik Eden, Mattias Ohlsson, Carsten Peterson and Tariq Enver. Single-cell network analysis identifies ddit3 as a nodal lineage regulator in hematopoiesis. _**Cell Reports**_ 2015 Jun 16;11(10):1503-10. PMID: 26051941
 
 2013
-- Bin Xie, **Dapeng Wang**, Yong Duan, Jun Yu, and Hongxing Lei. Functional networking of human divergently paired genes. PLoS ONE. 2013, 8(10): e78896. PMID: 24205343
+- Bin Xie, **Dapeng Wang**, Yong Duan, Jun Yu, and Hongxing Lei. Functional networking of human divergently paired genes. _**PLoS ONE**_. 2013, 8(10): e78896. PMID: 24205343
 
-- Yunbo Li, **Dapeng Wang**, Lei Wang, Jinhai Yu, Danhua Du, Ye Chen, Peng Gao, Duen-Mei Wang, Jun Yu, Feng Zhang, and Shuanglin Fu. Distinct genomic aberrations between low-grade and high-grade gliomas of Chinese patients. PLoS ONE. 2013, 8(2): e57168. PMID: 23451178 Highlighted in GenomeWeb Daily Scan
+- Yunbo Li, **Dapeng Wang**, Lei Wang, Jinhai Yu, Danhua Du, Ye Chen, Peng Gao, Duen-Mei Wang, Jun Yu, Feng Zhang, and Shuanglin Fu. Distinct genomic aberrations between low-grade and high-grade gliomas of Chinese patients. _**PLoS ONE**_. 2013, 8(2): e57168. PMID: 23451178 Highlighted in GenomeWeb Daily Scan
 
-- **Dapeng Wang**, Yan Xia, Xinna Li, Lixia Hou and Jun Yu. The Rice Genome Knowledgebase (RGKbase): an annotation database for rice comparative genomics and evolutionary biology. Nucleic Acids Research. 2013; 41: D1199-D1205.PMID: 23193278
+- **Dapeng Wang**, Yan Xia, Xinna Li, Lixia Hou and Jun Yu. The Rice Genome Knowledgebase (RGKbase): an annotation database for rice comparative genomics and evolutionary biology. _**Nucleic Acids Research**_. 2013; 41: D1199-D1205.PMID: 23193278
 
-- Lei Wang, Xiaowei Zhang, Linlin Pan, Wanfei Liu, **Dapeng Wang**, Guangyu Zhang, Yuxin Yin, An Yin, ShangangJia, Xiaoguang Yu, Gaoyuan Sun, Songnian Hu, Ibrahim S. Al-Mssallem, and Jun Yu. A Large-scale gene discovery for the red palm weevil Rhynchophorus ferrugineus (Coleoptera: Curculionidae). Insect Science 2013, 20: 689–702. PMID: 23955844
+- Lei Wang, Xiaowei Zhang, Linlin Pan, Wanfei Liu, **Dapeng Wang**, Guangyu Zhang, Yuxin Yin, An Yin, ShangangJia, Xiaoguang Yu, Gaoyuan Sun, Songnian Hu, Ibrahim S. Al-Mssallem, and Jun Yu. A Large-scale gene discovery for the red palm weevil Rhynchophorus ferrugineus (Coleoptera: Curculionidae). _**Insect Science**_ 2013, 20: 689–702. PMID: 23955844
 
 2012
-- **Dapeng Wang**, Yao Su, Xumin Wang, Hongxing Lei and Jun Yu. Transposon-Derived and Satellite-Derived Repetitive Sequences Play Distinct Functional Roles in Mammalian Intron Size Expansion. Evolutionary Bioinformatics 2012:8 301-319. PMID: 22807622
+- **Dapeng Wang**, Yao Su, Xumin Wang, Hongxing Lei and Jun Yu. Transposon-Derived and Satellite-Derived Repetitive Sequences Play Distinct Functional Roles in Mammalian Intron Size Expansion. _**Evolutionary Bioinformatics**_ 2012:8 301-319. PMID: 22807622
 
-- **Dapeng Wang**, Yubin Zhang, Zhonghua Fan, Guiming Liu and Jun Yu. LCGbase: A Comprehensive Database for Lineage-Based Co-regulated Genes. Evolutionary Bioinformatics 2012:8 39-46. PMID: 22267903
+- **Dapeng Wang**, Yubin Zhang, Zhonghua Fan, Guiming Liu and Jun Yu. LCGbase: A Comprehensive Database for Lineage-Based Co-regulated Genes. _**Evolutionary Bioinformatics**_ 2012:8 39-46. PMID: 22267903
 
 2011
-- **Dapeng Wang** and Jun Yu. Both size and GC-content of minimal introns are selected in human populations. PLoS ONE 2011, 6(3): e17945. PMID: 21437290 Highlighted in GenomeWeb Daily Scan
+- **Dapeng Wang** and Jun Yu. Both size and GC-content of minimal introns are selected in human populations. _**PLoS ONE**_ 2011, 6(3): e17945. PMID: 21437290 Highlighted in GenomeWeb Daily Scan
 
-- **Dapeng Wang**, Fei Liu, Lei Wang, Shi Huang and Jun Yu. Nonsynonymous substitution rate (Ka) is a relatively consistent parameter for defining fast-evolving and slow-evolving protein-coding genes. Biology Direct 2011, 6:13. PMID: 21342519
+- **Dapeng Wang**, Fei Liu, Lei Wang, Shi Huang and Jun Yu. Nonsynonymous substitution rate (Ka) is a relatively consistent parameter for defining fast-evolving and slow-evolving protein-coding genes. _**Biology Direct**_ 2011, 6:13. PMID: 21342519
 
-- Yan-Hui Zhao, **Da-Peng Wang**, Li-Li Zhang, Feng Zhang, Duen-Mei Wang and Wei-Yuan Zhang. Genomic expression profiles of blood and placenta reveal significant immune-related pathways and categories in Chinese women with gestational diabetes mellitus. Diabetic Medicine 2011, 28: 237–246. PMID: 21219437
+- Yan-Hui Zhao, **Da-Peng Wang**, Li-Li Zhang, Feng Zhang, Duen-Mei Wang and Wei-Yuan Zhang. Genomic expression profiles of blood and placenta reveal significant immune-related pathways and categories in Chinese women with gestational diabetes mellitus. _**Diabetic Medicine**_ 2011, 28: 237–246. PMID: 21219437
 
 2010
-- Feng Liu, **Dapeng Wang**, Jianjun Fu, Gaoyuan Sun, Yubang Shen, Lingli Dong, Bing Zhang, Songnian Hu, and Jiale Li. Identification of immune-relevant genes by expressed sequence tag analysis of head kidney from grass carp (Ctenopharyngodon idella). Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 2010, 5(2):116-23. PMID: 20403773
+- Feng Liu, **Dapeng Wang**, Jianjun Fu, Gaoyuan Sun, Yubang Shen, Lingli Dong, Bing Zhang, Songnian Hu, and Jiale Li. Identification of immune-relevant genes by expressed sequence tag analysis of head kidney from grass carp (Ctenopharyngodon idella). _**Comparative Biochemistry and Physiology Part D: Genomics and Proteomics**_ 2010, 5(2):116-23. PMID: 20403773
 
-- **Dapeng Wang**, Yubin Zhang, Zhang Zhang, Jiang Zhu, and Jun Yu. KaKs Calculator 2.0: a toolkit of incorperating gamma methods and sliding window strategies. Genomics Proteomics & Bioinformatics 2010, 8(1): 77-80. PMID: 20451164
+- **Dapeng Wang**, Yubin Zhang, Zhang Zhang, Jiang Zhu, and Jun Yu. KaKs Calculator 2.0: a toolkit of incorperating gamma methods and sliding window strategies. _**Genomics Proteomics & Bioinformatics**_ 2010, 8(1): 77-80. PMID: 20451164
 
-- Jiang Zhu, Fuhong He, **Dapeng Wang**, Kan Liu, Dawei Huang, Jingfa Xiao, Jiayan Wu, Songnian Hu, and Jun Yu. A novel role for minimal introns: routing mRNAs to the cytosol. PLoS ONE 2010, 5(4): e10144. PMID: 20419085
+- Jiang Zhu, Fuhong He, **Dapeng Wang**, Kan Liu, Dawei Huang, Jingfa Xiao, Jiayan Wu, Songnian Hu, and Jun Yu. A novel role for minimal introns: routing mRNAs to the cytosol. _**PLoS ONE**_ 2010, 5(4): e10144. PMID: 20419085
 
 2009
-- **Dapeng Wang**, Song Zhang, Fuhong He, Jiang Zhu, Songnian Hu, and Jun Yu. How do variable substitution rates influence the calculations of Ka and Ks? Genomics Proteomics & Bioinformatics 2009, 7(3): 116-127. PMID: 19944384
+- **Dapeng Wang**, Song Zhang, Fuhong He, Jiang Zhu, Songnian Hu, and Jun Yu. How do variable substitution rates influence the calculations of Ka and Ks? _**Genomics Proteomics & Bioinformatics**_ 2009, 7(3): 116-127. PMID: 19944384
 
-- **Da-Peng Wang**, Hao-Lei Wan, Song Zhang, and Jun Yu. Gamma-MYN: a new algorithm for estimating Ka and Ks with consideration of variable substitution rates. Biology Direct 2009, 4:20. PMID: 19531225
+- **Da-Peng Wang**, Hao-Lei Wan, Song Zhang, and Jun Yu. Gamma-MYN: a new algorithm for estimating Ka and Ks with consideration of variable substitution rates. _**Biology Direct**_ 2009, 4:20. PMID: 19531225
 
 
 You can use the [editor on GitHub](https://github.com/NextGenBioinformatics/dapengwang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
