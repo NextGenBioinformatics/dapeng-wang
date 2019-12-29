@@ -8,28 +8,28 @@ Afterwards, I moved to UK and accepted an appointment as a Research Associate in
 
 After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at Department of Plant Sciences, **University of Oxford** where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
 
-# Employment history
+## Employment history
 * Feb. 2018-Present, Senior Bioinformatics Research Officer, LeedsOmics, **University of Leeds**, Leeds, UK
 * Feb. 2016-Jan. 2018, Postdoctoral Research Assistant, Department of Plant Sciences, **University of Oxford**, Oxford, UK (With Prof. John Mackay)
 * Mar. 2014-Jan. 2016, Research Associate, UCL Cancer Institute, **University College London**, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
 * Jan. 2014-Feb. 2014, Associate Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 * Jul. 2011-Dec. 2013, Assistant Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 
-# Qualifications
+## Qualifications
 * Sep. 2006-Jul. 2011, PhD, Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
 * Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
 
-# Editorial Services
+## Editorial Services
 * Editorial Board Member, _**PLOS ONE**_, 2018-
 * Associate Editor, Bioinformatics and Computational Biology section of _**Frontiers in Bioengineering and Biotechnology**_, _**Frontiers in Genetics**_ and _**Frontiers in Plant Science**_, 2018-
 * Editorial Board Member, _**Evolutionary Bioinformatics**_, 2018-
 * Editorial Board Member, _**Scientific Reports**_, 2019-
 
-# Awards and Honors
+## Awards and Honors
 * Member, Youth Innovation Promotion Association, Chinese Academy of Sciences, 2013
 * President Awarding, Chinese Academy of Sciences, 2011        
 
-# Publication
+## Publication
 
 2019
 - Wanda M. Waterworth, Michael Wilson, **Dapeng Wang**, Thomas Nuhse, Stacey Warward, Julian Selley and Christopher E. West. (2019), Phosphoproteomic analysis reveals plant DNA damage signalling pathways with a functional role for histone H2AX phosphorylation in plant growth under genotoxic stress. _**The Plant Journal**_. 2019 Dec;100(5):1007-1021. PMID: [31410901](https://www.ncbi.nlm.nih.gov/pubmed/31410901)
@@ -91,39 +91,3 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 - **Da-Peng Wang**, Hao-Lei Wan, Song Zhang, and Jun Yu. Gamma-MYN: a new algorithm for estimating Ka and Ks with consideration of variable substitution rates. _**Biology Direct**_ 2009, 4:20. PMID: [19531225](https://www.ncbi.nlm.nih.gov/pubmed/19531225)
 
 
-
-You can use the [editor on GitHub](https://github.com/NextGenBioinformatics/dapengwang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NextGenBioinformatics/dapengwang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
