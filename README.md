@@ -22,14 +22,14 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 # Publication
 FIRST/CO-FIRST AUTHOR(#) AND/OR CORRESPONDING/CO-CORRESPONDING AUTHOR(*)
 Under review or in preparation
-25. Dapeng Wang*. ChIPwrapper: A highly-efficient wrapper for handling massive ChIP-Seq samples. In preparation.
+- Dapeng Wang*. ChIPwrapper: A highly-efficient wrapper for handling massive ChIP-Seq samples. In preparation.
 
-24. Dapeng Wang*. denovo-hppRNA: A smart pipeline for RNA-Seq analysis from reference-free genomes. In preparation.
+- Dapeng Wang*. denovo-hppRNA: A smart pipeline for RNA-Seq analysis from reference-free genomes. In preparation.
 
-23. Dapeng Wang*. GCevobase: an evolution-based database for GC content in eukaryotic genomes. Under review.
+- Dapeng Wang*. GCevobase: an evolution-based database for GC content in eukaryotic genomes. Under review.
 
 2017
-- Charlotta Böiers, Simon E. Richardson, Emma Laycock, Alya Zriwil, Virginia A. Turati, John Brown, Jason P. Wray, Dapeng Wang, Chela James, Javier Herrero, Ewa Sitnicka, Stefan Karlsson, Andrew J.H. Smith, Sten Erik W. Jacobsen and Tariq Enver. A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1. Developmental Cell. 2017 Dec 27. pii: S1534-5807(17)30990-5. PMID: 29290585
+- Charlotta Böiers, Simon E. Richardson, Emma Laycock, Alya Zriwil, Virginia A. Turati, John Brown, Jason P. Wray, **Dapeng Wang**, Chela James, Javier Herrero, Ewa Sitnicka, Stefan Karlsson, Andrew J.H. Smith, Sten Erik W. Jacobsen and Tariq Enver. A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1. Developmental Cell. 2017 Dec 27. pii: S1534-5807(17)30990-5. PMID: 29290585
 
 - Itaru Kato, Yoko Nishinaka, Masahiro Nakamura, Ayse U. Akarca, Akira Niwa, Hiroki Ozawa, Kenichi Yoshida, Makiko Mori, Dapeng Wang, Makiko Morita, Hiroo Ueno, Yusuke Shiozawa, Yuichi Shiraishi, Satoru Miyano, Rajeev Gupta, Katsutsugu Umeda, Kenichiro Watanabe, Katsuyoshi Koh, Souichi Adachi, Toshio Heike, Megumu K. Saito, Masashi Sanada, Seishi Ogawa, Teresa Marafioti, Akira Watanabe, Tatsutoshi Nakahata and Tariq Enver. Hypoxic adaptation of leukemic cells infiltrating the CNS affords a therapeutic strategy targeting VEGFA. Blood. 2017 Jun 8;129(23):3126-3129. PMID: 28424164
 
