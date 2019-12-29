@@ -22,11 +22,11 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 # Publication
 
 2019
-- Wanda M. Waterworth, Michael Wilson, **Dapeng Wang**, Thomas Nuhse, Stacey Warward, Julian Selley and Christopher E. West. (2019), Phosphoproteomic analysis reveals plant DNA damage signalling pathways with a functional role for histone H2AX phosphorylation in plant growth under genotoxic stress. The Plant Journal. 2019 Dec;100(5):1007-1021. PMID: [31410901](https://www.ncbi.nlm.nih.gov/pubmed/31410901)
-- **Dapeng Wang**, IntronDB: a database for eukaryotic intron features, Bioinformatics, Volume 35, Issue 21, 1 November 2019, Pages 4400–4401. PMID: [30949679](https://www.ncbi.nlm.nih.gov/pubmed/30949679)
+- Wanda M. Waterworth, Michael Wilson, **Dapeng Wang**, Thomas Nuhse, Stacey Warward, Julian Selley and Christopher E. West. (2019), Phosphoproteomic analysis reveals plant DNA damage signalling pathways with a functional role for histone H2AX phosphorylation in plant growth under genotoxic stress. _**The Plant Journal**_. 2019 Dec;100(5):1007-1021. PMID: [31410901](https://www.ncbi.nlm.nih.gov/pubmed/31410901)
+- **Dapeng Wang**, IntronDB: a database for eukaryotic intron features, _**Bioinformatics**_, Volume 35, Issue 21, 1 November 2019, Pages 4400–4401. PMID: [30949679](https://www.ncbi.nlm.nih.gov/pubmed/30949679)
 
 2018
-- **Dapeng Wang**, GCevobase: an evolution-based database for GC content in eukaryotic genomes, Bioinformatics, Volume 34, Issue 12, 15 June 2018, Pages 2129–2131. PMID: [29420682](https://www.ncbi.nlm.nih.gov/pubmed/29420682)
+- **Dapeng Wang**, GCevobase: an evolution-based database for GC content in eukaryotic genomes, _**Bioinformatics**_, Volume 34, Issue 12, 15 June 2018, Pages 2129–2131. PMID: [29420682](https://www.ncbi.nlm.nih.gov/pubmed/29420682)
 
 2017
 - Charlotta Böiers, Simon E. Richardson, Emma Laycock, Alya Zriwil, Virginia A. Turati, John Brown, Jason P. Wray, **Dapeng Wang**, Chela James, Javier Herrero, Ewa Sitnicka, Stefan Karlsson, Andrew J.H. Smith, Sten Erik W. Jacobsen and Tariq Enver. A Human IPS Model Implicates Embryonic B-Myeloid Fate Restriction as Developmental Susceptibility to B Acute Lymphoblastic Leukemia-Associated ETV6-RUNX1. _**Developmental Cell**_. 2017 Dec 27. pii: S1534-5807(17)30990-5. PMID: [29290585](https://www.ncbi.nlm.nih.gov/pubmed/29290585)
