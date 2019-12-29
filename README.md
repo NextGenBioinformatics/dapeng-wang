@@ -73,7 +73,8 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 2009
 - **Dapeng Wang**, Song Zhang, Fuhong He, Jiang Zhu, Songnian Hu, and Jun Yu. How do variable substitution rates influence the calculations of Ka and Ks? _**Genomics Proteomics & Bioinformatics**_ 2009, 7(3): 116-127. PMID: 19944384
 
-- **Da-Peng Wang**, Hao-Lei Wan, Song Zhang, and Jun Yu. Gamma-MYN: a new algorithm for estimating Ka and Ks with consideration of variable substitution rates. _**Biology Direct**_ 2009, 4:20. PMID: 19531225
+- **Da-Peng Wang**, Hao-Lei Wan, Song Zhang, and Jun Yu. Gamma-MYN: a new algorithm for estimating Ka and Ks with consideration of variable substitution rates. _**Biology Direct**_ 2009, 4:20. PMID: [19531225](https://www.ncbi.nlm.nih.gov/pubmed/19531225)
+
 
 
 You can use the [editor on GitHub](https://github.com/NextGenBioinformatics/dapengwang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
