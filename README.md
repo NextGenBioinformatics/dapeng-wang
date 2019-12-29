@@ -1,5 +1,8 @@
 ## Welcome to my personal page
 
+![GitHub Logo](/images/profile.png)
+https://github.com/NextGenBioinformatics/dapeng-wang/blob/master/images/profile.png
+
 I am currently a Senior Bioinformatics Research Officer at LeedsOmics, **University of Leeds**. My primary responsibility is to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
 
 I hold a B.Sc degree in the mathematics from **Shandong University** (2006) and a Ph.D degree in genomics and bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
