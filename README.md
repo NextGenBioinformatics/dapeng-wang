@@ -9,15 +9,15 @@ Afterwards, I moved to UK and accepted an appointment as a Research Associate in
 After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at Department of Plant Sciences, University of Oxford where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
 
 # Employment history
-Feb. 2018-Present, Senior Bioinformatics Research Officer, LeedsOmics, University of Leeds, Leeds, UK
-Feb. 2016-Jan. 2018, Postdoctoral Research Assistant, Department of Plant Sciences, University of Oxford, Oxford, UK (With Prof. John Mackay)
-Mar. 2014-Jan. 2016, Research Associate, UCL Cancer Institute, University College London, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
-Jan. 2014-Feb. 2014, Associate Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
-Jul. 2011-Dec. 2013, Assistant Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
+* Feb. 2018-Present, Senior Bioinformatics Research Officer, LeedsOmics, University of Leeds, Leeds, UK
+* Feb. 2016-Jan. 2018, Postdoctoral Research Assistant, Department of Plant Sciences, University of Oxford, Oxford, UK (With Prof. John Mackay)
+* Mar. 2014-Jan. 2016, Research Associate, UCL Cancer Institute, University College London, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
+* Jan. 2014-Feb. 2014, Associate Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
+* Jul. 2011-Dec. 2013, Assistant Professor, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
 
 # Education
-Sep. 2006-Jul. 2011, PhD, Genomics and Bioinformatics, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
-Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, Shandong University, Jinan, China
+* Sep. 2006-Jul. 2011, PhD, Genomics and Bioinformatics, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
+* Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, Shandong University, Jinan, China
 
 # Publication
 FIRST/CO-FIRST AUTHOR(#) AND/OR CORRESPONDING/CO-CORRESPONDING AUTHOR(*)
