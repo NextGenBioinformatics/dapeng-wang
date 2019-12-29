@@ -33,7 +33,7 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * Member, Youth Innovation Promotion Association, Chinese Academy of Sciences, 2013
 * President Awarding, Chinese Academy of Sciences, 2011        
 
-## Publication
+## Publications
 
 2019
 - Wanda M. Waterworth, Michael Wilson, **Dapeng Wang**, Thomas Nuhse, Stacey Warward, Julian Selley and Christopher E. West. (2019), Phosphoproteomic analysis reveals plant DNA damage signalling pathways with a functional role for histone H2AX phosphorylation in plant growth under genotoxic stress. _**The Plant Journal**_. 2019 Dec;100(5):1007-1021. PMID: [31410901](https://www.ncbi.nlm.nih.gov/pubmed/31410901)
