@@ -24,10 +24,12 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * Sep. 2002-Jul. 2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
 
 ## Editorial Services
-* Editorial Board Member, _**PLOS ONE**_, 2018-
-* Associate Editor, Bioinformatics and Computational Biology section of _**Frontiers in Bioengineering and Biotechnology**_, _**Frontiers in Genetics**_ and _**Frontiers in Plant Science**_, 2018-
-* Editorial Board Member, _**Evolutionary Bioinformatics**_, 2018-
-* Editorial Board Member, _**Scientific Reports**_, 2019-
+* 11/2018-present, Editorial Board Member, _**PLOS ONE**_
+* 11/2018-present, Associate Editor, Bioinformatics and Computational Biology section of _**Frontiers in Bioengineering and Biotechnology**_, _**Frontiers in Genetics**_ and _**Frontiers in Plant Science**_
+* 12/2018-present, Editorial Board Member, _**Evolutionary Bioinformatics**_
+* 01/2019-present, Editorial Board Member, _**Scientific Reports**_
+* 04/2020-present, Associate Editor, Phylogenetics, Phylogenomics, and Systematics section of _**Frontiers in Ecology and Evolution**_
+* 05/2020-present, Academic Editor, _**PeerJ**_
 
 ## Awards and Honors
 * Member, Youth Innovation Promotion Association, Chinese Academy of Sciences, 2013
