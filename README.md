@@ -31,6 +31,11 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * 04/2020-present, Associate Editor, Phylogenetics, Phylogenomics, and Systematics section of _**Frontiers in Ecology and Evolution**_
 * 05/2020-present, Academic Editor, _**PeerJ**_
 
+## Memberships
+* 2020-present, Society for Molecular Biology and Evolution
+* 2020-present, Genetics Society
+* 2020-present, Royal Society of Biology
+
 ## Awards and Honors
 * 2013, Member, Youth Innovation Promotion Association, Chinese Academy of Sciences
 * 2011, President Awarding, Chinese Academy of Sciences        
