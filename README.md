@@ -23,6 +23,7 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * 09/2006-07/2011, PhD, Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
 * 09/2002-07/2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
 
+<!--
 ## Editorial Services
 * 11/2018-present, Editorial Board Member, _**PLOS ONE**_
 * 11/2018-present, Associate Editor, Bioinformatics and Computational Biology section of _**Frontiers in Bioengineering and Biotechnology**_, _**Frontiers in Genetics**_ and _**Frontiers in Plant Science**_
@@ -31,6 +32,7 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 * 04/2020-present, Associate Editor, Phylogenetics, Phylogenomics, and Systematics section of _**Frontiers in Ecology and Evolution**_
 * 05/2020-present, Academic Editor, _**PeerJ**_
 * 05/2020-present, Associate Editor, _**Gene**_
+-->
 
 ## Memberships
 * 2020-present, Society for Molecular Biology and Evolution
