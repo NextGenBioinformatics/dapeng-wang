@@ -14,13 +14,13 @@ After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral 
 
 ## Employment history
 * 02/2018-present, Senior Bioinformatics Research Officer, LeedsOmics, **University of Leeds**, Leeds, UK
-* 02/2016-01/2018, Postdoctoral Research Assistant, Department of Plant Sciences, **University of Oxford**, Oxford, UK (With Prof. John Mackay)
-* 03/2014-01/2016, Research Associate, UCL Cancer Institute, **University College London**, London, UK (With Prof. Enver Tariq and Dr. Javier Herrero)
+* 02/2016-01/2018, Postdoctoral Research Assistant, Department of Plant Sciences, **University of Oxford**, Oxford, UK
+* 03/2014-01/2016, Research Associate, UCL Cancer Institute, **University College London**, London, UK
 * 01/2014-02/2014, Associate Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 * 07/2011-12/2013, Assistant Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 
 ## Qualifications
-* 09/2006-07/2011, PhD, Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China (With Prof. Jun Yu)
+* 09/2006-07/2011, PhD, Bioinformatics, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
 * 09/2002-07/2006, BS, Information and Computing Science, School of Mathematics and System Sciences, **Shandong University**, Jinan, China
 
 <!--
