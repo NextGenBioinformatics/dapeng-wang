@@ -50,8 +50,8 @@ Prior to taking up my current role, I was employed as a Senior Bioinformatics Re
 ## Publications
 
 2020
-- Mingrui Wang, Dapeng Wang, Jun Yu, Shi Huang. Enrichment in conservative amino acid changes among fixed and standing missense variations in slowly evolving proteins.  _**PeerJ**_ 8:e9983 (2020). PMID: [32995099](https://pubmed.ncbi.nlm.nih.gov/32995099/)
-- Haidee Tinning, Alysha Taylor, Dapeng Wang, Bede Constantinides, Ruth Sutton, Georgios Oikonomou, Miguel A. Velazquez, Paul Thompson, Achim Treumann, Mary J. O'Connell, Niamh Forde. The role of CAPG in molecular communication between the embryo and the uterine endometrium: Is its function conserved in species with different implantation strategies?.  _**The FASEB Journal**_. 2020; 34: 11015– 11029. PMID: [32619075](https://pubmed.ncbi.nlm.nih.gov/32619075/)
+- Mingrui Wang, **Dapeng Wang**, Jun Yu, Shi Huang. Enrichment in conservative amino acid changes among fixed and standing missense variations in slowly evolving proteins.  _**PeerJ**_ 8:e9983 (2020). PMID: [32995099](https://pubmed.ncbi.nlm.nih.gov/32995099/)
+- Haidee Tinning, Alysha Taylor, **Dapeng Wang**, Bede Constantinides, Ruth Sutton, Georgios Oikonomou, Miguel A. Velazquez, Paul Thompson, Achim Treumann, Mary J. O'Connell, Niamh Forde. The role of CAPG in molecular communication between the embryo and the uterine endometrium: Is its function conserved in species with different implantation strategies?.  _**The FASEB Journal**_. 2020; 34: 11015– 11029. PMID: [32619075](https://pubmed.ncbi.nlm.nih.gov/32619075/)
 
 2019
 - Wanda M. Waterworth, Michael Wilson, **Dapeng Wang**, Thomas Nuhse, Stacey Warward, Julian Selley and Christopher E. West. (2019), Phosphoproteomic analysis reveals plant DNA damage signalling pathways with a functional role for histone H2AX phosphorylation in plant growth under genotoxic stress. _**The Plant Journal**_. 2019 Dec;100(5):1007-1021. PMID: [31410901](https://www.ncbi.nlm.nih.gov/pubmed/31410901/)
