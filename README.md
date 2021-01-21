@@ -4,7 +4,7 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/NextGenBioinformatics/dapengwang/master/images/profile.png">
 </p>
 
-I am working as a Senior Bioinformatician in Integrative Analysis at the COMBAT consortium at the **University of Oxford** using multi-omics techniques in combination with the cutting-edge bioinformatic approaches and statistical methods to explore the pathogenesis of COVID-19 and stratification of patients as well as inform the treatment strategy based on genomics information.
+I am working as a Senior Bioinformatician in Integrative Analysis at the COVID-19 Multi-omics Blood ATlas (COMBAT) consortium at the **University of Oxford** using multi-omics techniques in combination with the cutting-edge bioinformatic approaches and statistical methods to explore the pathogenesis of COVID-19 and stratification of patients as well as inform the treatment strategy based on genomics information.
 
 I hold a B.Sc degree in mathematics from the **Shandong University** (2006) and a Ph.D degree in bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
 
