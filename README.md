@@ -8,7 +8,7 @@ I am working as a Senior Bioinformatician in Integrative Analysis at the COVID-1
 
 I hold a B.Sc degree in mathematics from the **Shandong University** (2006) and a Ph.D degree in bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
 
-Afterwards, I moved to UK and accepted an appointment as a Research Associate in the Cancer Institute, **University College London** for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
+Afterwards, I moved to UK and accepted an appointment as a Research Associate at the Cancer Institute, **University College London** for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
 
 After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at the Department of Plant Sciences, **University of Oxford** where I was working on conducting RNA-Seq analysis to study the mechasims of various groups of Conifer species in response to the drought stress in terms of gene expression profiles and sequence variations.
 
