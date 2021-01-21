@@ -4,16 +4,19 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/NextGenBioinformatics/dapengwang/master/images/profile.png">
 </p>
 
-I am currently a Senior Bioinformatics Research Officer at LeedsOmics, **University of Leeds**. My primary responsibility is to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
+I am working as a Senior Bioinformatician in Integrative Analysis at the COMBAT consortium at the **University of Oxford** using multi-omics techniques in combination with the cutting-edge bioinformatic approaches and statistical methods to explore the pathogenesis of COVID-19 and stratification of patients as well as inform the treatment strategy based on genomics information.
 
-I hold a B.Sc degree in mathematics from **Shandong University** (2006) and a Ph.D degree in bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
+I hold a B.Sc degree in mathematics from the **Shandong University** (2006) and a Ph.D degree in bioinformatics from **Beijing Institute of Genomics** (BIG), Chinese Academy of Science (2011). After graduation, I was appointed as Assistant Professor and Associate Professor in the same institute (2011-2014). During the period in Beijing, I was focusing on the study of genome evolution by means of a large set of genomes from myriad species that span a diversity of taxonomies.
 
-Afterwards, I moved to UK and accepted an appointment as a Research Associate in Cancer Institute, **University College London** for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
+Afterwards, I moved to UK and accepted an appointment as a Research Associate in the Cancer Institute, **University College London** for nearly two years (2014-2016) where I endeavored to construct several decent comprehensive pipelines for RNA-Seq and ChIP-Seq analyses with their applications on cancer research such as Leukemia study.
 
-After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at Department of Plant Sciences, **University of Oxford** where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
+After leaving London, I spent two years at Oxford (2016-2018) as a Postdoctoral Research Assistant at the Department of Plant Sciences, **University of Oxford** where I was working on conducting RNA-Seq analysis to study the mechasims of various Conifer species in response to the diverse abiotic and biotic changes in terms of gene expression profiles and sequence variations.
+
+Prior to taking on my current role, I worked as a Senior Bioinformatics Research Officer at LeedsOmics, **University of Leeds** where my primary responsibility was to maintain the day-to-day running of LeedsOmics Institute, organise and coordinate LeedsOmics activities such as annual symposiums, research seminar series, training workshops and coding clubs as well as provide the data analysis and training for the researchers in terms of bioinformatics and other cutting-edge omics technologies.
 
 ## Employment history
-* 02/2018-present, Senior Bioinformatics Research Officer, LeedsOmics, **University of Leeds**, Leeds, UK
+* 01/2021-present, Senior Bioinformatician in Integrative Analysis, Wellcome Centre for Human Genetics, **University of Oxford**, Oxford, UK
+* 02/2018-12/2020, Senior Bioinformatics Research Officer, LeedsOmics, **University of Leeds**, Leeds, UK
 * 02/2016-01/2018, Postdoctoral Research Assistant, Department of Plant Sciences, **University of Oxford**, Oxford, UK
 * 03/2014-01/2016, Research Associate, UCL Cancer Institute, **University College London**, London, UK
 * 01/2014-02/2014, Associate Professor, **Beijing Institute of Genomics**, Chinese Academy of Sciences, Beijing, China
