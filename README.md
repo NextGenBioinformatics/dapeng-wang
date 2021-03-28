@@ -35,6 +35,8 @@ Prior to taking up my current role, I was employed as a Senior Bioinformatics Re
 * 04/2020-present, Associate Editor, Phylogenetics, Phylogenomics, and Systematics section of _**Frontiers in Ecology and Evolution**_
 * 05/2020-present, Academic Editor, _**PeerJ**_
 * 05/2020-present, Associate Editor, _**Gene**_
+* 03/2021-present, Editorial Board Member, _**BMC Genomic Data**_
+* 03/2021-present, Editorial Board Member, _**BMC Research Notes**_
 
 
 ## Memberships
