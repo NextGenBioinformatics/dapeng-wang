@@ -1,0 +1,200 @@
+html {
+
+ padding-top: 10px;
+ padding-bottom: 10px;
+ overflow-y: scroll;
+ background: #C0C0C0;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+td { 
+    padding: 5px;
+}
+th { 
+    padding: 5px;
+}
+body{
+ font: 16px arial, helvetica, serif;
+ margin: 0 auto;
+ text-align: center;
+ margin-top: 0px;
+ margin-bottom: 0px;
+
+ background: #C0C0C0;
+    margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+    padding: 0;
+    text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h1 {
+  margin: .67em 0;
+  padding: auto;
+  font-family: arial, helvetica, serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 2em;
+  line-height: 2em;
+  font-size-adjust: none;
+  letter-spacing: -0.5;
+  color: #000000;
+  font-style: underline;
+}
+h2 {
+  margin: .75em 0;
+  font-family: arial, helvetica, serif;
+  padding: auto;
+  line-height: 2em;
+  letter-spacing: -0.5px;
+  font-size: 1.5em;
+  color: #000000;
+}
+h3 {
+  margin: .83em 0;
+  font-family: arial, helvetica, serif;
+  padding: auto;
+  line-height: 2em;
+  font-size: 1.17em;
+  color: #000000;
+}
+h4 {
+  margin: 1.12em 0;
+  font-family: arial, helvetica, serif;
+  padding: auto;
+  line-height: 2em;
+  font-size: 1em;
+  color: #000000;
+}
+
+pre{
+    text-align: justify;
+}
+
+a {
+    font-weight: bold;
+    color: #2980b9;
+	text-decoration: none;
+}
+
+a:visited {
+    color: #2980b9;
+}
+
+a:hover {
+    color: #772233;
+    font-weight: bolder;
+}
+p {
+    text-align: justify;
+}
+ul {
+    text-align: justify;
+}
+
+ol {
+    text-align: justify;
+}
+
+
+.mainContent {
+    background-color: #F9F9F9;
+    border: 0px solid;
+    border-color: #666666;
+    margin: 0 auto;
+    width: 938px; /* 960 - 25 - 25 - 1 - 1 */
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+#footer{
+    color: #FFFFFF;
+    background-color: #FFD306;
+    margin:auto auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position:relative;
+    width:960px;
+}
+#footer p{
+    color: #000000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+#footer a{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.menuContainer {
+    text-align: center;
+	height: 28px;
+    width: 960px;
+    margin: 0 auto;
+    padding-bottom: 0px;
+	font-size: 12px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+  text-decoration: none;
+  width: 96px;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+li.dropdown {
+  display: inline-block;
+  width: 96px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 96px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 6px 8px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  width: 200px;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
