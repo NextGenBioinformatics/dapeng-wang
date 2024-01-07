@@ -4,7 +4,30 @@
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
 
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
 
 <body>
     <header id="header">
@@ -33,119 +56,83 @@
         <div id="mainContent" class="mainContent" role="main">
             <div class="mainContentInner">
 
-<table style="font-family:'Helvetica Neue';font-size: 20px;" width="900" border="0" cellspacing="0" cellpadding="2" align="center" >
-<tr>
-<td align="left"><h3>Gallery</h3></td>
-</tr>
+                <table style="font-family:'Helvetica Neue';font-size: 20px;" width="900" border="0" cellspacing="0" cellpadding="2" align="center" >
+
+                <h1 class="title">Gallery</h1>
 
 
 
-<tr>
-<td>
-<h4 style="text-align:center">Bioinformatics seminar</h4>
-<figure>
-  <img src="images/Seminar.JPG" alt="Seminar" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-<td>
-<h4 style="text-align:center">Teaching</h4>
-<figure>
-  <img src="images/Teaching.jpeg" alt="Teaching" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
+<div class="gallery">
+  <a target="_blank" href="images/Seminar.JPG">
+    <img src="images/Seminar.JPG" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Bioinformatics seminar</div>
+</div>
 
-<tr>
-<td>
-<h4 style="text-align:center">International Bioinformatics Workshop</h4>
-<figure>
-  <img src="images/IBW2010.jpg" alt="IBW2010" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
+<div class="gallery">
+  <a target="_blank" href="images/Teaching.jpeg">
+    <img src="images/Teaching.jpeg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Teaching</div>
+</div>
 
-<tr>
-<td>
-<h4 style="text-align:center">International Conference on Genomics</h4>
-<figure>
-  <img src="images/ICG2013.jpg" alt="ICG2013" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-<td>
-<h4 style="text-align:center">University of Leeds</h4>
-<figure>
-  <img src="images/Leeds.jpeg" alt="Leeds" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
+<div class="gallery">
+  <a target="_blank" href="images/UCL.JPG">
+    <img src="images/UCL.JPG" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Universtiy College London</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="images/Oxford.JPG">
+    <img src="images/Oxford.JPG" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">University of Oxford</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="images/Imperial.jpg">
+    <img src="images/Imperial.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Imperial College London</div>
+</div>
 
-<tr>
-<td>
-<h4 style="text-align:center">Universtiy College London</h4>
-<figure>
-  <img src="images/UCL.JPG" alt="UCL" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-<td>
-<h4 style="text-align:center">University of Oxford</h4>
-<figure>
-  <img src="images/Oxford.JPG" alt="Oxford" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
+<div class="gallery">
+  <a target="_blank" href="images/Leeds.jpeg">
+    <img src="images/Leeds.jpeg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">University of Leeds</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="images/PAG2014.jpg">
+    <img src="images/PAG2014.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Plant and Animal Genome XXII Conference</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="images/ESHG2023.jpeg">
+    <img src="images/ESHG2023.jpeg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">European Society of Human Genetics Conference</div>
+</div>
 
-<tr>
-<td>
-<h4 style="text-align:center">Imperial College London</h4>
-<figure>
-  <img src="images/Imperial.jpg" alt="Imperial" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-<td>
-<h4 style="text-align:center">MTWC – ILD Away Day</h4>
-<figure>
-  <img src="images/Talk.jpeg" alt="Talk" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
+<div class="gallery">
+  <a target="_blank" href="images/ICG2013.jpg">
+    <img src="images/ICG2013.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">International Conference on Genomics</div>
+</div>
 
-
-
-<tr>
-<td>
-<h4 style="text-align:center">Plant and Animal Genome XXII Conference</h4>
-<figure>
-  <img src="images/PAG2014.jpg" alt="PAG2014" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-<td>
-<h4 style="text-align:center">European Society of Human Genetics Conference</h4>
-<figure>
-  <img src="images/ESHG2023.jpeg" alt="ESHG2023" style="width:100%">
-  <figcaption></figcaption>
-</figure>
-</td>
-</tr>
-
-
+<div class="gallery">
+  <a target="_blank" href="images/Talk.jpeg">
+    <img src="images/Talk.jpeg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">MTWC – ILD Away Day</div>
+</div>
 
 </table>
-
-
 
             </div>
         </div>
